@@ -1,13 +1,19 @@
 ### Manfred Rosenboom (maroph)
-I work as a principal developer for Fujitsu Germany in the Munich Area. At the 
-moment I work mainly on the Fujitsu SecDocs project. I use JEE and web based 
-technologies in general with the following servers: WildFly and Tomcat. I use 
-also the following database systems: H2, Oracle DB/RAC, MariaDB and MySQL. 
+I work as a lead developer for [Fujitsu Germany](https://www.fujitsu.com/de/)
+in Munich. At the moment I work mainly on the Fujitsu SecDocs project. 
 
+I use JEE and web based technologies in general.
+
+* Databases  
+  H2, Oracle DB/RAC, MariaDB, and MySQL
+* Operating Systems 
+  Debian, SUSE SLES
+* Languages  
+  Dutch, English, German (native speaker)
 * Programming Languages  
   Bash, C, Java, JavaScript, Node.js, PHP, Python, SQL
-* Languages  
-  Dutch, English, German (native language)
+* Servers  
+  Apache Web Server, Tomcat, and WildFly 
 
 <!--
 - 🔭 I’m currently working on ...
