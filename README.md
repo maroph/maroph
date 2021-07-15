@@ -1,5 +1,5 @@
 ### Manfred Rosenboom (maroph)
-I work as a lead developer for [Fujitsu Germany](https://www.fujitsu.com/de/)
+I work as a software lead developer for [Fujitsu Germany](https://www.fujitsu.com/de/)
 in Munich. At the moment I work mainly on the Fujitsu SecDocs project. 
 
 Skills
