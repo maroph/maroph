@@ -1,8 +1,7 @@
 ### Manfred Rosenboom (maroph)
-I work as a software lead developer for
-[Fujitsu Germany](https://www.fujitsu.com/de/) in the Munich Area. At the moment
-I work mainly on the
-[SecDocs Archive Service](https://www.fujitsu.com/de/products/computing/servers/mainframe/bs2000/ccp/)
+I worked as a software lead developer for 
+[Fujitsu Germany](https://www.fujitsu.com/de/) mainly on the
+[SecDocs Archive Service](https://www.fujitsu.com/de/products/computing/servers/mainframe/bs2000/ccp/) 
 project.
 
 #### Skills
