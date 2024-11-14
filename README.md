@@ -7,7 +7,7 @@ project.
 #### Skills
 
 * Databases  
-  H2, Oracle DB, MariaDB, MySQL
+  H2, Oracle DB, MariaDB, MySQL, SQLite
 * Languages  
   Dutch, English, German (native speaker)
 * Operating Systems  
