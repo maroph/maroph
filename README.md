@@ -6,15 +6,15 @@ project.
 
 #### Skills
 
-* Databases
+* Databases  
   H2, Oracle DB, MariaDB, MySQL
-* Languages
+* Languages  
   Dutch, English, German (native speaker)
-* Operating Systems
+* Operating Systems  
   Debian, SUSE SLES
-* Programming Languages
+* Programming Languages  
   Bash, C, Java, JavaScript, PHP, Python, SQL
-* Servers
+* Servers  
   Apache Web Server, Tomcat, WildFly
 
 See [maroph.github.io](https://maroph.github.io/) for more details.
