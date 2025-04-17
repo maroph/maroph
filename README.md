@@ -1,7 +1,8 @@
 ### Manfred Rosenboom (maroph)
-I worked as a software lead developer for 
-[Fujitsu Germany](https://www.fujitsu.com/de/) mainly on the
-[SecDocs Archive Service](https://www.fujitsu.com/de/products/computing/servers/mainframe/bs2000/ccp/) 
+I worked as a software lead developer for
+[Fujitsu Germany](https://global.fujitsu/de-de) mainly
+on the
+[SecDocs Archive Service](https://www.fujitsu.com/de/products/computing/servers/mainframe/bs2000/ccp/)
 project.
 
 #### Skills
@@ -17,5 +18,9 @@ project.
 * Servers  
   Apache Web Server, Tomcat, WildFly
 
-See [maroph.github.io](https://maroph.github.io/) for more details.
+#### GitHub Page
+* [maroph.github.io](https://maroph.github.io/)
 
+#### Contact
+You can contact me via 
+[Mastodon](https://mastodon.social/@maroph).
